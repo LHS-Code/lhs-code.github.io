@@ -268,8 +268,7 @@ p {
   transition: background-size 400ms;
 }
 
-a:hover,
-a:focus {
+a.link-yellow:hover, a.link-blue:hover, a.link-yellow:focus, a.link-blue:focus {
   background-size: 0 0.1em, 100% 0.1em;
 }
 
