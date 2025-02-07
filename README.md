@@ -1,7 +1,7 @@
-# LHSCoding.github.io
+# LHS-Code.github.io
 ## Largo High School Coding Club's website!
 
-### Link to website: https://lhscoding.github.io
+### Link to website: https://lhs-code.github.io
 
 ### Features
 * **Announcements**
@@ -11,4 +11,3 @@
 
 ### Contributors
 * Lead Developer: **S-Orbital**
-* Agenda & Bug Maintenance: **D4LM**
