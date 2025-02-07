@@ -5,6 +5,12 @@ html {
     font-family: "Bernhard-Gothic";
     src: url("Fonts/BernhardGothicURW-Heavy.ttf") format('truetype');
 }
+@media only screen and (max-width: 400px) {
+  .sidebar {
+    visibility: hidden;
+  }
+}
+
 
 body, h2,h4,h5,h6 {
     color: #ffbe3e;
